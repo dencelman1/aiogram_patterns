@@ -1,3 +1,5 @@
+```
+
 from aiogram_patterns import AiogramPatterns
 from aiogram.types import Message
 import asyncio
@@ -43,3 +45,5 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+```
