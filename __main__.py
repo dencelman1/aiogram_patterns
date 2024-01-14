@@ -2,7 +2,7 @@ from aiogram_patterns import AiogramPatterns
 from aiogram.types import Message
 import asyncio
 
-token = 1
+token = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
 
 
 
